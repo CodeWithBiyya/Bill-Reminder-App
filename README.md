@@ -28,6 +28,20 @@ Bill Reminder is an Android application that helps users manage recurring bills 
 
 <img width="1080" height="2408" alt="WhatsApp Image 2026-08-03 at 12 40 36 PM" src="https://github.com/user-attachments/assets/e8be5bb5-da5b-4b6d-8a01-5b337f5be8d9" />
 
+<img width="717" height="1600" alt="WhatsApp Image 2026-08-03 at 12 40 35 PM (3)" src="https://github.com/user-attachments/assets/173365af-904e-452a-a1ae-bc2864601a47" />
+
+<img width="717" height="1600" alt="WhatsApp Image 2026-08-03 at 12 40 35 PM (2)" src="https://github.com/user-attachments/assets/852973f6-cbc9-493b-af50-4a0c91579943" />
+
+<img width="717" height="1600" alt="WhatsApp Image 2026-08-03 at 12 40 35 PM (1)" src="https://github.com/user-attachments/assets/0966cbf8-5db1-4dc7-bfc1-0c37901a816c" />
+
+<img width="1080" height="2408" alt="WhatsApp Image 2026-08-03 at 12 40 35 PM" src="https://github.com/user-attachments/assets/0ac08651-17fe-4cff-aa94-d218ffe1c5e7" />
+
+<img width="717" height="1600" alt="WhatsApp Image 2026-08-03 at 12 40 34 PM" src="https://github.com/user-attachments/assets/5854ab4a-23da-42f5-96dd-eda0b39facfb" />
+
+
+
+
+
 
 ## Installation
 
